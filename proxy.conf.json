@@ -1,0 +1,9 @@
+[
+  {
+    "context": ["/rest", "/static", "/resources", "/data"],
+    "target": "http://192.168.2.24",
+    "secure": false,
+    "changeOrigin": true
+  }
+]
+
